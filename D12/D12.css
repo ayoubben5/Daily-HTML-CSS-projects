@@ -1,0 +1,117 @@
+.base{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    margin:-8px;
+    background: #000;
+}
+
+.tri1{
+    width: 0px;
+    height: 150px;
+    box-shadow: 0 0 5px #000;
+    transform: rotate(30deg);
+    position: relative;
+    border-radius: 18px;
+    border: 2px solid #fff;
+    bottom: 46px;
+    left:5px;
+}
+
+.tri2{
+    width: 0px;
+    height: 150px;
+    box-shadow: 0 0 5px #000;
+    transform: rotate(-30deg);
+    position: relative;
+    border-radius: 18px;
+    border: 2px solid #fff;
+    bottom: 46px;
+    left:76px;
+    z-index: 3;
+}
+
+.tri3{
+    width:150px;
+    height: 0;
+    box-shadow: 0 0 5px #000;
+    position: relative;
+    border-radius: 18px;
+    border: 2px solid #fff;
+    right: 40px;
+    top:20px;
+}
+
+.left{
+    width: 200px;
+   height: 0px;
+    background: #000;
+   transform: rotate(-25deg);
+   box-shadow: 0 0 30px #fff,0 0 30px #fff,0 0 30px #fff inset;
+    position: relative;
+   top: 0px;
+   left: 16px;
+   border-radius: 18px;
+   border: 2px solid #fff;
+ }
+
+ .rainbow{
+     width: 250px;
+     height: 48px;
+     position: relative;
+     bottom: 20px;
+     margin-left: -105px;
+     background: #fff;
+     transform: rotate(15deg);
+     z-index: 1;
+ }
+
+ .rainbow:before{
+    content: '';
+    position: absolute;
+    left: -5px;
+    height: 80px;
+    width:35px;
+    background: #000;
+    z-index: 2;
+    transform: rotate(-44deg);
+}
+.red{
+    width: 250px;
+   height: 8px;
+   position: relative;
+   background: red;
+ }
+ .orange{
+    width: 250px;
+   height: 8px;
+   position: relative;
+   background: orange;
+ }
+ .yellow{
+    width: 250px;
+   height: 8px;
+   position: relative;
+   background: yellow;
+ }
+ .green{
+    width: 250px;
+   height: 8px;
+   position: relative;
+   background: green;
+ }
+ .blue{
+    width: 250px;
+   height: 8px;
+   position: relative;
+   background: blue;
+ }
+ .purple{
+    width: 250px;
+   height: 8px;
+   position: relative;
+   background: purple;
+ }
