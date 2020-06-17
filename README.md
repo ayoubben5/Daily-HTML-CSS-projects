@@ -13,4 +13,5 @@
  <li>DAY 11:<strong> A Watermelon drawing</strong> </li>
  <li>DAY 12:<strong> The dark side of the moon</strong> </li>
  <li>DAY 13:<strong> A one div ORB</strong> </li>
+ <li>DAY 14:<strong> A one div loading cercle animated</strong> </li>
 </ul>
