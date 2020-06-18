@@ -4,7 +4,8 @@
  <li>DAY 1: </li>
  <li>DAY 2: </li>
  <li>DAY 3: </li>
- <li>DAY 4: <strong> Landing Page 1</strong> </li>
+ <li>DAY 4: <strong> Landing Page 1</strong> 
+ <img src="D4/D4.png" /></li>
  <li>DAY 6:<strong> Animated List</strong> </li>
  <li>DAY 7:<strong> Intro to Grids</strong> </li>
  <li>DAY 8:<strong> Grids and animation</strong> </li>
