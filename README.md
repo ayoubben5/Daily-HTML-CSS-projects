@@ -14,4 +14,5 @@
  <li>DAY 12:<strong> The dark side of the moon</strong> </li>
  <li>DAY 13:<strong> A one div ORB</strong> </li>
  <li>DAY 14:<strong> A one div loading cercle animated</strong> </li>
+ <li>DAY 15:<strong> a pizza checkout order Mobile UI</strong> </li>
 </ul>
