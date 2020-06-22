@@ -12,9 +12,10 @@
  <li>DAY 8:<strong> Grids and animation</strong> </li>
  <li>DAY 9:<strong> Credit Card Checkout</strong> </li>
  <li>DAY 10:<strong> Landing Page 2</strong> </li>
- <li>DAY 11:<strong> A Watermelon drawing</strong> </li>
- <li>DAY 12:<strong> The dark side of the moon</strong> </li>
- <li>DAY 13:<strong> A one div ORB</strong> </li>
+ <li>DAY 11:<strong> A Watermelon drawing</strong> 
+ <img src="D11/D11.png" /></li>
+ <li>DAY 12:<strong> The dark side of the moon</strong> <img src="D12/D12.png" /> </li>
+ <li>DAY 13:<strong> A one div ORB</strong>  <img src="D13/D13.png" /></li>
  <li>DAY 14:<strong> A one div loading cercle animated</strong> </li>
  <li>DAY 15:<strong> A pizza checkout order Mobile UI</strong>
  <img src="D15/D15.png" /> </li>
