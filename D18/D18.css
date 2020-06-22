@@ -1,0 +1,88 @@
+* {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+  body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+  }
+
+
+  .container {
+    display: grid;
+    grid-template-columns: repeat(9, 30px);
+    grid-template-rows: repeat(9, 30px);
+  }
+
+
+  .container .skull {
+    background-color: #fff;
+  }
+
+
+  .container .skull.skull_tall {
+    grid-row: 1 / 10;
+    grid-column: 3 / 8;
+  }
+
+
+  .container .skull.skull_sqaure {
+    grid-row: 2 / 8;
+    grid-column: 2 / 9;
+  }
+
+
+  .container .skull.skull_wide {
+    grid-row: 3 / 7;
+    grid-column: 1 / 10;
+  }
+
+
+  .container .nose, .container .eye, .container .tooth {
+    background-color: #000;
+  }
+
+
+  .container .nose {
+    grid-column-start: 5;
+    grid-row-start: 7;
+  }
+
+
+  .container .eye {
+    grid-row: 4 / 6;
+  }
+
+
+  .container .eye.eye_left {
+    grid-column: 2 / 4;
+  }
+
+
+  .container .eye.eye_right {
+    grid-column: 7 / 9;
+  }
+
+
+  .container .tooth {
+    grid-row: 9 / 10;
+  }
+
+
+  .container .tooth.tooth_left {
+    grid-column: 4 / 5;
+  }
+
+
+  .container .tooth.tooth_right {
+    grid-column: 6 / 7;
+  }
+  
+  
