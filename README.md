@@ -20,4 +20,5 @@
  <li>DAY 15:<strong> A pizza checkout order Mobile UI</strong>
  <img src="D15/D15.png" /> </li>
  <li>DAY 16-17:<strong>Newspaper front page</strong> </li>
+ <li>DAY 18:<strong>Skull</strong> <img src="D18/D18.png" /> </li>
 </ul>
