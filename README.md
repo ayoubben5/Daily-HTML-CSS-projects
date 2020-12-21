@@ -19,7 +19,9 @@
  <li>DAY 14:<strong> A one div loading cercle animated</strong> </li>
  <li>DAY 15:<strong> A pizza checkout order Mobile UI</strong>
  <img src="D15/D15.png" /> </li>
- <li>DAY 16-17:<strong>Newspaper front page</strong> </li>
+ <li>DAY 16-17:<strong>Newspaper front page</strong> 
+ <video controls width="250"><source src="D16-17/D-16.mp4"
+         type="video/mp4"> </video></li>
  <li>DAY 18:<strong>Skull</strong> <img src="D18/D18.png" /> </li>
  <li>DAY 19:<strong>Sign Up Form Neomorphic</strong> <img src="D19/D19.png" /> </li>
 </ul>
