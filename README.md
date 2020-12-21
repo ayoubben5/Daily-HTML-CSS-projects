@@ -20,7 +20,9 @@
  <li>DAY 15:<strong> A pizza checkout order Mobile UI</strong>
  <img src="D15/D15.png" /> </li>
  <li>DAY 16-17:<strong>Newspaper front page</strong> </li>
- ![D 16-17](https://user-images.githubusercontent.com/60117038/102788847-94cb1700-43a3-11eb-8c5e-07a33168d728.mp4)
+
  <li>DAY 18:<strong>Skull</strong> <img src="D18/D18.png" /> </li>
  <li>DAY 19:<strong>Sign Up Form Neomorphic</strong> <img src="D19/D19.png" /> </li>
 </ul>
+
+ ![D16-17](https://user-images.githubusercontent.com/60117038/102788847-94cb1700-43a3-11eb-8c5e-07a33168d728.mp4)
